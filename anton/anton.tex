@@ -1,0 +1,482 @@
+\documentclass[]{article}
+\usepackage[margin=1cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amsfonts,amssymb}
+\parindent0pt
+\newcommand{\fgraph}[1]{\fbox{\small#1}}
+\newcommand{\pgraph}[1]{\par$\bullet$ \textbf{#1}\par}
+\newcommand{\mrm}{\medskip\hrule\medskip}
+\pagestyle{empty}
+\begin{document}
+\section{Functions}
+\subsection{Functions and The Analysis of Graphical Information}
+\subsection{Properties of Functions}
+\subsection{Graphic Functions on Calculators and Computers; Computer Algebra Systems}
+\subsection{New Functions from Old}
+\subsection{Mathematical Models; Linear Models}
+\subsection{Families of Functions}
+\subsection{Parametric Equations}
+\section{Limits and Continuity}
+\subsection{Limits (An Intuitive Introduction)}
+\fgraph{The Tangent Line, Area, and Velocity Problems}
+\fgraph{Tangent Lines and Limits}
+\fgraph{Instantenous Velocity and Limits}
+\fgraph{Limits}
+\fgraph{Numerical Pitfalls}
+\fgraph{One-Sided Limits}
+\fgraph{The Relationship Between One-Sided and Two-Sided Limits}
+\fgraph{A First Look at Continuity}
+\fgraph{Infinite Limits and Vertical Asymptotes}
+\fgraph{Limits at Infinity and Horizontal Asymptotes}
+\fgraph{How Limits at Infinity Can Fail to Exist}
+\subsection{Limits (Computational Techniques)}
+\fgraph{Some Basic Limits}
+\fgraph{Limits of Polynomials as $x\to a$}
+\fgraph{Limits of $x^n$ as $x\to+\infty$ or $x\to-\infty$}
+\fgraph{Limits of Polynomials as $x\to+\infty$ or $x\to-\infty$}
+\fgraph{Limits of Rational Functios as $x\to a$}
+\fgraph{Limits of Rational Functions as $x\to+\infty$ or $x\to-\infty$}
+\fgraph{A Quick Method for Finding Limits of Rational Functions as $x\to+\infty$ or $x\to-\infty$}
+\pgraph{Limits Involving Radicals}
+\mrm
+$$
+\lim_{x\to+\infty}\sqrt[3]{\frac{3x+5}{6x-8}}
+=
+\sqrt[3]{\lim_{x\to+\infty}\frac{3x+5}{6x-8}}
+=
+\frac{1}{\sqrt[3]2}
+$$
+\mrm
+$$
+\lim_{x\to+\infty}\frac{\sqrt{x^2+2}}{3x-6}
+=
+\lim_{x\to+\infty}\frac{\sqrt{x^2+2}/|x|}{(3x-6)/|x|}
+\overset{x>0}{=}
+\lim_{x\to+\infty}\frac{\sqrt{x^2+2}/\sqrt{x^2}}{(3x-6)/x}
+=
+\lim_{x\to+\infty}\frac{\sqrt{1+2/x^2}}{3-6/x}
+=
+\frac{\sqrt{\displaystyle\lim_{x\to+\infty}1+2/x^2}}{\displaystyle\lim_{x\to+\infty}3-6/x}
+=
+\frac{1}{3}
+$$
+\mrm
+$$
+\lim_{x\to-\infty}\frac{\sqrt{x^2+2}}{3x-6}
+=
+\lim_{x\to-\infty}\frac{\sqrt{x^2+2}/|x|}{(3x-6)/|x|}
+\overset{x<0}{=}
+\lim_{x\to-\infty}\frac{\sqrt{x^2+2}/\sqrt{x^2}}{(3x-6)/(-x)}
+=
+\lim_{x\to-\infty}\frac{\sqrt{1+2/x^2}}{-3+6/x}
+=
+\frac{\sqrt{\displaystyle\lim_{x\to-\infty}1+2/x^2}}{\displaystyle\lim_{x\to-\infty}-3+6/x}
+=
+-\frac{1}{3}
+$$
+\mrm
+\fgraph{Limits of Functions Defined Piecewise}
+\subsection{Limits (Discussed More Rigorously)}
+\fgraph{Definition of a Limit}
+\fgraph{The Value of $\delta$ Is Not Unique}
+\fgraph{Limits as $x\to+\infty$ or $x\to-\infty$}
+\fgraph{Infinite Limits}
+\subsection{Continuity}
+\fgraph{Definition of Continuity}
+\fgraph{Continuity in Applications}
+\fgraph{Continuity of Polynomials}
+\fgraph{Some Properties of Continuous Functions}
+\fgraph{Continuity of Rational Functions}
+\fgraph{Continuity of Compositions}
+\fgraph{Continuity from the Left and from the Right}
+\fgraph{The Intermediate-Value Theorem}
+\fgraph{Approximating Roots Using the Intermediate Value Theorem}
+\fgraph{Approximating Roots by Zooming with a Graphic Utility}
+\subsection{Limits and Continuity of Trigonometric Functions}
+\fgraph{Continuty of Trigonometric Functions}
+\fgraph{Obtaning Limits by Squeezing}
+%The Derivative%
+\section{The Derivative}
+\fgraph{Slope of a Tangent Line}
+\fgraph{Average Versus Instantaneous Velocity}
+\fgraph{Average and Instantaneous Rate of Change}
+\subsection{Tangent Lines and Rates of Change}
+\fgraph{Tangent Lines Defined Precisely}
+\fgraph{Slopes of Tangent Lines by Zooming}
+\subsection{The Derivative}
+\fgraph{The Derivative}
+\fgraph{Differentiability}
+\fgraph{Relationship Between Differentiability and Continuity}
+\fgraph{Derivative Notation}
+\fgraph{Other Notations}
+\fgraph{Derivatives at the Endpoints of an Interval}
+\subsection{Techniques of Differentiation}
+\fgraph{Derivative of a Constant}
+\fgraph{Derivative of $x$ to a Power}
+\fgraph{Derivative of a Constant Times a Function}
+\fgraph{Derivatives of Sums and Differences}
+\fgraph{Derivative of a Product}
+\fgraph{Derivative of a Quotient}
+\fgraph{Derivative of a Reciprocal}
+\fgraph{The Power Rule for Integer Exponents}
+\fgraph{Higher Derivatives}
+\subsection{Derivatives of Trigonometric Functions}
+\fgraph{Derivatives of the Trigonometric Functions}
+\subsection{The Chain Rule}
+\fgraph{Derivatives of Compositions}
+\fgraph{Generalized Derivative Formulas}
+\fgraph{An Alternative Approach to Using the Chain Rule}
+\fgraph{Differentiating Using Computer Algebra Systems}
+\subsection{Local Linear Approximation; Diffferentials}
+\fgraph{Increments}
+\fgraph{Differentials}
+\fgraph{Local Linear Approximation}
+\fgraph{Error in Local Linear Approximations}
+\fgraph{Error Propagation in Applications}
+\fgraph{Differential Formulas}
+\section{Logarithmic and Exponential Functions}
+\subsection{Inverse Functions}
+\fgraph{Inverse Functions}
+\fgraph{Domain and Range of Inverse Functions}
+\fgraph{A Method for Finding Inverses}
+\fgraph{Existence of Inverse Functions}
+\fgraph{Graphs of Inverse Functions}
+\fgraph{Increasing or Decreasing Functions Have Inverses}
+\fgraph{Restricting Domains to Make Functions Invertible}
+\fgraph{Continuity of Inverse Functions}
+\fgraph{Differentiability of Inverse Functions}
+\fgraph{Graphing Inverse Functions with Graphing Utilities}
+\subsection{Logarithmic and Exponential Functions}
+\fgraph{Irrational Exponents}
+\fgraph{The Family of Exponential Functions}
+\fgraph{Logarithms}
+\fgraph{Logarithmic Functions}
+\fgraph{Solving Equations Involving Exponentials and Logarithms}
+\fgraph{Change of Base Formula for Logarithms}
+\fgraph{Logarithmic Scales in Science and Engineering}
+\fgraph{Exponential and Logarithmic Growth}
+\subsection{Implicit Differentiation}
+\fgraph{Functions Defined Explicitly and Implicitly}
+\fgraph{Graphs of Equations in $x$ and $y$}
+\fgraph{Implicit Differentiation}
+\fgraph{Differentiability of Functions Defined Implictly}
+\fgraph{Derivatives of Rational Powers of $x$}
+\fgraph{Derivatives of Inverse Functions}
+\subsection{Derivatives of Logarithmic and Exponential Functions}
+\fgraph{Derivatives of Logarithmic Functions}
+\fgraph{Logarithmic Differentiation}
+\fgraph{Derivatives of Irrational Powers of $x$}
+\fgraph{Derivatives of Exponential Functions}
+\subsection{Derivatives of Inverse Trigonometric Functions}
+\fgraph{Inverse Trigonometric Functions}
+\fgraph{Evaluating Inverse Trigonometric Functions}
+\fgraph{Identities for Inverse Trigonometric Functions}
+\fgraph{Derivatives of the Inverse Trigonometric Functions}
+\fgraph{Differentiability of the Inverse Trigonometric Functions}
+\subsection{Related Rates}
+\fgraph{Rates of Changes Using the Chain Rule}
+\subsection{L'Hôpital's Rule ; Inderterminate Forms}
+\fgraph{Indeterminates Forms of Type 0/0}
+\fgraph{L'Hôpital's Rule}
+\fgraph{Indeterminate Forms of Type $\infty/\infty$}
+\fgraph{Analyzing the Growth of Exponential Functions Using l'Hôpital's Rule}
+\fgraph{Indeterminate Forms of Type $0\cdot\infty$}
+\fgraph{Indeterminate Forms of Type $\infty-\infty$}
+\fgraph{Indeterminate Forms of Type $0^0$, $\infty^0$, $1^\infty$}
+\section{Analysis of Functions and Their Graphs}
+\subsection{Analysis of Functions I: Increase, Decrease, and Concavity}
+\subsection{Analysis of Functions II: Relative Extrema; First and Second Derivative Tests}
+\subsection{Analysis of Functions III: Applying Technology and the Tools of Calculus}
+\section{Applications of the Derivative}
+\subsection{Absolute Maxima and Minima}
+\subsection{Applied Maximum and Minimum Problems}
+\subsection{Rectilinear Motion (Motion Along a Line)}
+\subsection{Newton's Method}
+\subsection{Rolle's Theorem; Mean-Value Theorem}
+\section{Integration}
+\subsection{An Overview of the Area Problem}
+\fgraph{Defining Area}
+\fgraph{The Rectangle Method for Finding Areas}
+\fgraph{The Antiderative Method for Finding Areas}
+\subsection{The Indefinite Integral; Integral Curves and Direction Fields}
+\fgraph{The Indefinite Integral}
+\fgraph{Integration Formulas}
+\fgraph{Properties of the Indefinite Integral}
+\fgraph{Integral Curves}
+\fgraph{Integration from the Viewpoint of Differential Equations}
+\fgraph{Direction Fields}
+\subsection{Integration by Substitution}
+\fgraph{$u$-Substitution}
+\fgraph{Integration Using Computer Algebra Systems}
+\subsection{Sigma Notation}
+\fgraph{Sigma Notation}
+\fgraph{Changing the Index of Summation}
+\fgraph{Properties of Sigma Notation}
+\fgraph{Summation Formulas}
+\subsection{The Definite Integral}
+\fgraph{A Definition of Area}
+\fgraph{The Definite Integral of a Continuous Function}
+\fgraph{The Riemann Integral}
+\fgraph{Integrability}
+\fgraph{Properties of the Definite Integral}
+\fgraph{Conditions for Integrability}
+\subsection{The Fundamental Theorem of Calculus}
+\fgraph{The Fundamental Theorem of Calculus}
+\fgraph{The Relationship Between Definite and Indefinite Integrals}
+\fgraph{Dummy Variables}
+\fgraph{The Mean-Value Thereom for Integrals}
+\fgraph{Part 2 of the Fundamental Theorem of Calculus}
+\fgraph{Differentiation and Integration are Inverse Processes}
+\subsection{Rectilinear Motion Revisited; Average Value}
+\fgraph{Finding Position and Velocity by Integration}
+\fgraph{Uniformly Accelerated Motion}
+\fgraph{The Free-Fall Model}
+\fgraph{Integrating Rates of Change}
+\fgraph{Displacement in Rectilinear Motion}
+\fgraph{Distance Traveled in Rectilinear Motion}
+\fgraph{Analyzing the Velocity Versus Time Curve}
+\fgraph{Average Value of a Continuous Function}
+\fgraph{Average Velocity  Revisited}
+\subsection{Evaluating Definite Integrals by Substitution}
+\fgraph{Two Methods for Making Substitutions in Definite Integrals}
+\subsection{Logarithmic Functions from the Integral Point of View}
+\fgraph{The Link Between Natural Logarithms and Integrals}
+\fgraph{Approximating $\ln x$ Numerically}
+\fgraph{Differentiability and Continuity of $\ln x$ and $e^x$}
+\fgraph{The Definition of $e$ revisited}
+\fgraph{Functions Defined by Integrals}
+\fgraph{Evaluating and Graphing Functions Defined by Integrals}
+\fgraph{Integrals with Function as Limits of Integration}
+\section{Applications of the Definite Integral in Geometry, Science, and Engineering}
+\subsection{Area Between Two Curves}
+\subsection{Volumes by Slicing; Disks and Washers}
+\subsection{Volumes by Cylindrical Shells}
+\subsection{Length of a Plane Curve}
+\subsection{Area of a Surface of Revolution}
+\subsection{Work}
+\subsection{Fluid Pressure and Force}
+\subsection{Hyperbolic Functions and Hanging Cables}
+\section{Principles of Integral Evaluation}
+\subsection{An Overview of Integration Methods}
+\fgraph{Methods for Approaching Integration Problems}
+\fgraph{A Review of Familiar Integration Formulas}
+\subsection{Integration by Parts}
+\fgraph{Derivation of the Formula for Integration by Parts}
+\fgraph{Integration by Parts for Definite Integrals}
+\fgraph{Reduction Formulas}
+\subsection{Trigonometric Integrals}
+\fgraph{Integrating Powers of Sine and Cosine}
+\fgraph{Integrating Products of Sines and Cosines}
+\fgraph{Integrating Powers of Tangent and Secant}
+\fgraph{Integrating Products of Tangents and Secants}
+\fgraph{An Alternative Method for Integrating Powers of Sine, Cosine, Tangent and Secant}
+\fgraph{Mercator's Map of the World}
+\subsection{Trigonometric Substitutions}
+\fgraph{The Method of Trigonometric Substitution}
+\fgraph{Integrals Involving $ax^2+bx+c$}
+\subsection{Integrating Reational Functions by Partial Fractions}
+\fgraph{Partial Fractions}
+\fgraph{Finding the Form of a Partial Fraction Decomposition}
+\fgraph{Linear Factors}
+\fgraph{Quadratic Factors}
+\fgraph{Integrating Improper Rational Functions}
+\fgraph{Concluding Remarks}
+\subsection{Using Tables of Integrals and Computer Algebra Systems}
+\fgraph{Integral Tables}
+\fgraph{Perfect Matches}
+\fgraph{Matches Requiring Substitutions}
+\fgraph{Matches Requiring Reduction Formulas}
+\fgraph{Matches Requiring Special Substitutions}
+\fgraph{Integrating with Computer Algebra Systems}
+\fgraph{Computer Algebra Systems can Fail}
+\subsection{Numerical Integration; Simpson's Rule}
+\fgraph{A Review of Riemann Sum Approximations}
+\fgraph{Trapezoidal Approximation}
+\fgraph{Comparison of the Midpoint and Trapezoidal Approximations}
+\fgraph{Simpson's Rule}
+\fgraph{Error Estimates}
+\fgraph{A Comparison of the Three Methods}
+\subsection{Improper Integrals}
+\fgraph{Improper Integrals}
+\fgraph{Integrals over Infinite Intervals}
+\fgraph{Integrals whose Integrands have Infinite Discontinuities}
+\fgraph{The Application of Improper Integrals to Arc Length and Surface Area}
+\section{Mathematical Modeling with Differential Equations}
+\subsection{First-Order Differential Equations and Applications}
+\subsection{Direction Fields; Euler's Method}
+\subsection{Modeling with Differential Equations}
+\section{Infinite Series}
+\subsection{Sequences}
+\fgraph{Definition of a Sequence}
+\fgraph{Graphs of Sequences}
+\fgraph{Limit of a Sequence}
+\fgraph{The Squeezing Theorem for Sequences}
+\fgraph{Sequences Defined Recursively}
+\subsection{Monotone Sequences}
+\fgraph{Terminology}
+\fgraph{Testing for Monotonicity}
+\fgraph{Properties that Hold Eventually}
+\fgraph{An Intuitive View of Convergence}
+\fgraph{Convergence of Monotone Sequences}
+\subsection{Infinite Series}
+\fgraph{Sum of Infinite Series}
+\fgraph{Geometric Series}
+\fgraph{Harmonic Series}
+\subsection{Convergence Tests}
+\fgraph{The Divergence Test}
+\fgraph{Algebraic Properties of Infinite Series}
+\fgraph{The Integral Test}
+\fgraph{$p$-Series}
+\fgraph{Proof of the Integral Test}
+\subsection{Taylor and Maclaurin Series}
+\fgraph{Local Quadratic Approximations}
+\fgraph{MacLaurin Polynomials}
+\fgraph{Taylor Polynomials}
+\fgraph{Sigma Notation for Taylor and MacLaurin Polynomials}
+\fgraph{Taylor and MacLaurin Series}
+\subsection{The Comparison, Ratio, and Root Tests}
+\fgraph{The Comparison Test}
+\fgraph{Using the Comparison Test}
+\fgraph{The Limit Comparison Test}
+\fgraph{The Ratio Test}
+\fgraph{The Root Test}
+\subsection{Alternating Series; Conditional Convergence}
+\fgraph{Alternating Series}
+\fgraph{Approximating Sums of Alternating Series}
+\fgraph{Absolute Convergence}
+\fgraph{Conditional Convergence}
+\fgraph{The Ratio Test for Absolute Convergence}
+\fgraph{Summary of Convergence Tests}
+\subsection{Power Series}
+\fgraph{Power Series in $x$}
+\fgraph{Radius and Interval of Convergence}
+\fgraph{Finding the Interval of Convergence}
+\fgraph{Power Series in $x-x_0$}
+\fgraph{Functions Defined by Power Series}
+\subsection{Convergence of Taylor Series; Computational Methods}
+\fgraph{The $n$th remainder}
+\fgraph{Estimating the $n$th remainder}
+\fgraph{Approximating Trigonometric Functions}
+\fgraph{Roundoff and Truncation Error}
+\fgraph{Approximating Exponential Functions}
+\fgraph{Approximating Logarithms}
+\fgraph{Approximating $\pi$}
+\fgraph{Binomial Series}
+\subsection{Differentiating and Integrating Power Series; Modeling with Taylor Series}
+\fgraph{Differentiating Power Series}
+\fgraph{Integrating Power Series}
+\fgraph{Power Series Representations Must Be Taylor Series}
+\fgraph{Some Practical Ways to Find Taylor Series}
+\fgraph{Finding MacLaurin Series by Multiplication and Division}
+\fgraph{Modeling Physical Laws with Taylor Series}
+\section{Analytic Geometry in Calculus}
+\subsection{Polar Coordinates}
+\subsection{Tangent Lines and Arc Length for Parametric and Polar Curves}
+\subsection{Area in Polar Coordinates}
+\subsection{Conic Sections in Calculus}
+\subsection{Conic Sections in Polar Coordinates}
+\section{Three-Dimensional Space; Vectors}
+\subsection{Rectangular Coordinates in 3-Space; Spheres; Cylindrical Surfaces}
+\subsection{Vectors}
+\subsection{Dot Product; Projections}
+\subsection{Cross Product}
+\subsection{Parametric Equations of Lines}
+\subsection{Planes in 3-Space}
+\subsection{Quadric Surfaces}
+\subsection{Cylindrical and Spherical Coordinates}
+\section{Vector-Valued Functions}
+\subsection{Introduction to Vector-Valued Functions}
+\subsection{Calculus of Vector-Valued Functions}
+\subsection{Change of Parameters; Arc Length}
+\subsection{Unit Tangent, Normal, and Binormal Vectors}
+\subsection{Curvature}
+\subsection{Motion Along a Curve}
+\subsection{Kepler's Laws of Planetary Motion}
+\section{Partial Derivatives}
+\subsection{Functions of Two or More Variables}
+Notation and Terminology
+Graphs of Functions of Two Variables
+Graphs of Functions of Two Variables Using Technology
+Level Curves
+Contour Plots Using Technology
+Level Surfaces
+Graphing Functions of Two Variables Using Technology
+\subsection{Limits and Continuity}
+Open and Closed Sets
+Bounded Sets
+Limits Along Curves
+General Limits of Functions of Two Variables 
+Properties of Limits
+Relationship Between General Limits and Limits Along Smooth Curves
+Continuity
+Limits at Points of Discontinuity
+Extension to Three Variables
+\subsection{Partial Derivatives}
+Partial Derivatives of Functions of Two Variables
+Partial Derivatives Viewed as Rates of Change and Slopes
+Partial Derivative Notation
+Implicit Partial Differentiation
+Higher-Order Partial Derivatives
+The Wave Equation
+Partial Derivatives of Functions With More Than Two Variables
+\subsection{Differentiability and Chain Rules}
+Differentiability of Functions of Two Variables
+Sufficient Conditions for Differentiability
+Equality of Mixed Partials
+Chain Rules
+Related Rates in Two Variables
+\subsection{Tangent Planes; Total Differentials for Functions of Two Variabls}
+Tangent Planes
+The Geometric Signifiance of Differentiability
+Total Differentials
+Local Linear Approximation
+Approximations Using Total Differentials
+\subsection{Directional Derivatives and Gradients for Functions of Two Variables}
+Directional Derivatives
+The Relationship Between Directional Derivatives and Partial Derivatives
+The Effect of Reversing Direction
+The Gradient
+Properties of the Gradient
+Gradients Are Normal to Level Curves
+An Application of Gradients
+\subsection{Differentiability, Directional Derivatives, and Gradients for Functions of Three or More Variables}
+Differentiability
+Directional Derivatives and Gradients
+Gradient are Normal to Level Surfaces
+Using Gradients to Find Tangent Planes
+Using Gradients to Find Tangent Lines to Intersections of Surfaces
+Total Differentials
+Approximations Using Total Differentials
+Extensions to Functions of $n$ Variables
+Total Differentials
+Chain Rules
+\subsection{Maxima and Minima of Functions of Two Variables}
+Extrema
+The Extreme-Value Theorem
+Finding Relative Extrema
+The Second Partials Test
+Finding Absolute Extrema on Closed and Bounded Sets
+\subsection{Lagrange Multipliers}
+Extremum Problems with Constraints
+Lagrange Multipliers
+Three Variables and One Constraint
+\section{Multiple Integrals}
+\subsection{Double Integrals}
+\subsection{Double Integrals over Nonrectangular Region}
+\subsection{Double Integrals in Polar Coordinates}
+\subsection{Parametric Surfaces; Surface Area}
+\subsection{Triple Integrals}
+\subsection{Centroid, Center of Gravity, Theorem of Pappus}
+\subsection{Triple Integrals in Cylindrical and Spherical Coordinates}
+\subsection{Change of Variables in Multiple Integrals; Jacobians}
+\section{Topics in Vector Calculus}
+\subsection{Vector Fields}
+\subsection{Line Integrals}
+\subsection{Independence of Path; Conservative Vector Fields}
+\subsection{Green's Theorem}
+\subsection{Surface Integral}
+\subsection{Application of Surface Integras; Flux}
+\subsection{The Divergence Theorem}
+\subsection{Stokes' Theorem}
+\end{document}
