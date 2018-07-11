@@ -6,6 +6,7 @@
 \parindent0pt
 \newcommand{\fgraph}[1]{\fbox{\small#1}}
 \newcommand{\pgraph}[1]{\par$\bullet$ \textbf{#1}\par}
+\newcommand{\D}{\hskip1pt{\mathrm{d}}}
 \newcommand{\mrm}{\medskip\hrule\medskip}
 \pagestyle{empty}
 \begin{document}
@@ -194,6 +195,7 @@ $$
 \subsection{Rectilinear Motion (Motion Along a Line)}
 \subsection{Newton's Method}
 \subsection{Rolle's Theorem; Mean-Value Theorem}
+%Integration%
 \section{Integration}
 \subsection{An Overview of the Area Problem}
 \fgraph{Defining Area}
@@ -201,8 +203,20 @@ $$
 \fgraph{The Antiderative Method for Finding Areas}
 \subsection{The Indefinite Integral; Integral Curves and Direction Fields}
 \fgraph{The Indefinite Integral}
-\fgraph{Integration Formulas}
-\fgraph{Properties of the Indefinite Integral}
+\pgraph{Integration Formulas}
+$$\int \D x=x+C$$
+$$\int x^r\D x=\frac{x^{r+1}}{r+1}+C$$
+$$\int \cos x\D x=\sin x+C$$
+$$\int \sin x\D x=-\cos x+C$$
+$$\int (\sec x)^2\D x=\tan x+C$$
+$$\int (\csc x)^2\D x=-\cot x+C$$
+$$\int \sec x\tan x\D x=\sec x+C$$
+$$\int \csc x\cot x\D x=-\csc x+C$$
+$$\int e^x\D x=e^x+C$$
+$$\int b^x\D x=\frac{b^x}{\ln b}+C$$
+$$\int \frac{1}{x}\D x=\ln|x|+C$$
+\pgraph{Properties of the Indefinite Integral}
+$$\frac{\D}{\D x}\left(\int f(x)\D x\right)=f(x)$$
 \fgraph{Integral Curves}
 \fgraph{Integration from the Viewpoint of Differential Equations}
 \fgraph{Direction Fields}
