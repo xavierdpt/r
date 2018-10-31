@@ -1,24 +1,56 @@
 https://en.wikipedia.org/wiki/Hypothalamus
 
 The hypothalamus is a portion of the brain that contains a number of small nuclei with a variety of functions.
-One of the most important functions of the hypothalamus is to link the nervous system to the endocrine system via the pituitary gland.
 
-The hypothalamus is located below the thalamus and is part of the limbic system.
-In the terminology of neuroanatomy, it forms the ventral part of the diencephalon.
+The hypothalamus links the nervous system to the endocrine system via the pituitary gland.
+
+nervous system <-> hypothalamus <-> pituitary gland <-> endocrine system
+
+The hypothalamus is located below the thalamus.
+The hypothalamus is part of the limbic system.
+
+The hypothalamus forms the ventral part of the diencephalon.
+
 All vertebrate brains contain a hypothalamus.
-In humans, it is the size of an almond.
 
-The hypothalamus is responsible for the regulation of certain metabolic processes and other activities of the autonomic nervous system.
-It synthesizes and secretes certain neurohormones, called releasing hormones or hypothalamic hormones, and these in turn stimulate or inhibit the secretion of hormones from the pituitary gland.
+In humans, the hypothalamus it is the size of an almond.
 
-The hypothalamus controls body temperature, hunger, important aspects of parenting and attachment behaviours, thirst, fatigue, sleep, and circadian rhythms.
-The hypothalamus derives its name from Greek upo, "under" and thalamos, thalamus.
+The hypothalamus regulates certain metabolic processes.
+The hypothalamus participates in activies of the autonomic nervous system.
 
-The hypothalamus is a brain structure made up of distinct nuclei as well as less anatomically distinct areas.
-It is found in all vertebrate nervous systems.
-In mammals, magnocellular neurosecretory cells in the paraventricular nucleus and the supraoptic nucleus of the hypothalamus produce neurohypophysial hormones, oxytocin and vasopressin.
-These hormones are released into the blood in the posterior pituitary.
-Much smaller parvocellular neurosecretory cells, neurons of the paraventricular nucleus, release corticotropin-releasing hormone and other hormones into the hypophyseal portal system, where these hormones diffuse to the anterior pituitary.
+The hypothalamus synthesizes and secretes hypothalamic hormones.
+
+Hypothalamic hormones are also called releasing hormones.
+Hypothalamic hormones are neurohormones.
+Hypothalamic hormones stimulate or inhibit the secretion of hormones from the pituitary gland.
+
+The hypothalamus is linked to
+- body temperature control
+- hunger
+- parenting and attachment behaviours
+- thirst
+- fatigue
+- sleep
+- circadian rhythms
+
+Some magnocellular neurosecretory cells are in the paraventricular nucleus of the hypothalamus.
+Some magnocellular neurosecretory cells are in the supraoptic nucleus of the hypothalamus.
+
+Magnocellular neurosecretory cells produce oxytocin and vasopressin.
+
+Oxytocin and vasopressin are neurohypophysial hormones.
+
+Oxytocin and vasopressin are released into the blood by the posterior pituitary.
+
+The parvocellular neurosecretory cells are neurons of the paraventricular nucleus.
+
+The parvocellular neurosecretory cells secretes corticotropin-releasing hormone.
+
+The parvocellular neurosecretory cells are much smaller than magnocellular neurosecretory cells.
+
+The hormones secreted by the parvocellular neurosecretory cells are released into the hypophyseal portal system.
+
+The hypophyseal portal system diffuses to the anterior pituitary.
 
 The hypothalamic nuclei include the following:
 
@@ -81,25 +113,46 @@ Posterior region
       memory
       sleep
 
-The hypothalamus is highly interconnected with other parts of the central nervous system, in particular the brainstem and its reticular formation.
-As part of the limbic system, it has connections to other limbic structures including the amygdala and septum, and is also connected with areas of the autonomous nervous system.
+The hypothalamus is connected to the brainstem.
+The hypothalamus is connected to the reticular formation of the brainstem.
 
-The hypothalamus receives many inputs from the brainstem, the most notable from the nucleus of the solitary tract, the locus coeruleus, and the ventrolateral medulla.
+The hypothalamus is connected to the amygdala.
+The hypothalamus is connected to the septum.
+The hypothalamus is connected to areas of the autonomous nervous system.
 
-Most nerve fibres within the hypothalamus run in two ways (bidirectional).
+The hypothalamus is part of the limbic system.
 
-Projections to areas caudal to the hypothalamus go through the medial forebrain bundle, the mammillotegmental tract and the dorsal longitudinal fasciculus.
+The hypothalamus receives inputs from the nucleus of the solitary tract.
+The hypothalamus receives inputs from the locus coeruleus.
+The hypothalamus receives inputs from the ventrolateral medulla.
 
-Projections to areas rostral to the hypothalamus are carried by the mammillothalamic tract, the fornix and terminal stria.
+The solitary tract is part of the brainstem.
+The locus coeruleus is part of the brainstem.
+The ventrolateral medulla is part of the brainstem.
 
-Projections to areas of the sympathetic motor system (lateral horn spinal segments T1-L2/L3) are carried by the hypothalamospinal tract and they activate the sympathetic motor pathway.
+Most nerve fibres within the hypothalamus are bidirectional.
 
-Several hypothalamic nuclei are sexually dimorphic; i.e., there are clear differences in both structure and function between males and females.
-Some differences are apparent even in gross neuroanatomy: most notable is the sexually dimorphic nucleus within the preoptic area, in which the differences are subtle changes in the connectivity and chemical sensitivity of particular sets of neurons.
-The importance of these changes can be recognized by functional differences between males and females.
-For instance, males of most species prefer the odor and appearance of females over males, which is instrumental in stimulating male sexual behavior.
-If the sexually dimorphic nucleus is lesioned, this preference for females by males diminishes.
-Also, the pattern of secretion of growth hormone is sexually dimorphic; this is why in many species, adult males are visibly distinguishable from females.
+Some projections of the hypothalamus go through the medial forebrain bundle.
+Some projections of the hypothalamus go through the mammillotegmental tract.
+Some projections of the hypothalamus go through the dorsal longitudinal fasciculus.
+Some projections of the hypothalamus go through the mammillothalamic tract.
+Some projections of the hypothalamus go through the fornix.
+Some projections of the hypothalamus go through terminal stria.
+
+The projections of the hypothalamus to areas of the sympathetic motor system are carried by the hypothalamospinal tract.
+The projections of the hypothalamus to areas of the sympathetic motor system activate the sympathetic motor pathway.
+The projections of the hypothalamus to areas of the sympathetic motor system are the lateral horn spinal segments T1-L2/L3.
+
+Several hypothalamic nuclei are sexually dimorphic.
+
+The sexually dimorphic nucleus within the preoptic area show subtle changes in the connectivity and chemical sensitivity of particular sets of neurons.
+Sexually dimorphic changes in the hypothalamus can be recognized by functional differences between males and females.
+
+The fact that males of most species prefer the odor and appearance of females over males comes from the sexually dimorphic changes in the hypothalamus.
+When the sexually dimorphic nucleus is lesioned, the preference for females by males diminishes.
+The pattern of secretion of growth hormone is sexually dimorphic.
+
+---------------------
 
 Other striking functional dimorphisms are in the behavioral responses to ovarian steroids of the adult.
 Males and females respond to ovarian steroids in different ways, partly because the expression of estrogen-sensitive neurons in the hypothalamus is sexually dimorphic; i.e., estrogen receptors are expressed in different sets of neurons.
