@@ -1,0 +1,386 @@
+https://en.wikipedia.org/wiki/Cortisol
+
+Cortisol is a steroid hormone.
+Cortisol is a glucocorticoid hormone.
+
+When used as a medication, cortisol is known as hydrocortisone.
+
+Cortisol is produced in humans by the zona fasciculata.
+The zona fasciculata is in the adrenal cortex.
+The adrenal cortex is in the adrenal gland.
+
+Cortisol is released in response to stress.
+Cortisol is released in response to low blood-glucose concentration.
+
+Cortisol triggers gluconeogenesis.
+Gluconeogenesis increase blood sugar.
+
+Cortisol suppress the immune system.
+
+Cortisol aids in the metabolism of fat, protein, and carbohydrates.
+
+Cortisol decreases bone formation.
+
+In the early fasting state, cortisol stimulates gluconeogenesis (the formation of glucose), and activates antistress and anti-inflammatory pathways.
+Cortisol also plays an important, but indirect, role in liver and muscle glycogenolysis, the breaking down of glycogen to glucose-1-phosphate and glucose.
+This is done through its passive influence on glucagon.
+Additionally, cortisol facilitates the activation of glycogen phosphorylase, which is necessary for epinephrine to have an effect on glycogenolysis.
+
+In the late fasting state, the function of cortisol changes slightly and increases glycogenesis.
+This response allows the liver to take up glucose not being used by the peripheral tissue and turn it into liver glycogen stores to be used if the body moves into the starvation state.
+
+Elevated levels of cortisol, if prolonged, can lead to proteolysis (breakdown of proteins) and muscle wasting. Several studies have shown that cortisol can have a lipolytic effect (promote the breakdown of fat).[citation needed] Under some conditions, however, cortisol may somewhat suppress lipolysis.
+
+Immune response
+Cortisol prevents the release of substances in the body that cause inflammation. It is used to treat conditions resulting from overactivity of the B-cell-mediated antibody response. Examples include inflammatory and rheumatoid diseases, as well as allergies. Low-potency hydrocortisone, available as a nonprescription medicine in some countries, is used to treat skin problems such as rashes and eczema.
+
+It inhibits production of interleukin (IL)-12, interferon (IFN)-gamma, IFN-alpha, and tumor-necrosis-factor (TNF)-alpha by antigen-presenting cells (APCs) and T helper (Th)1 cells, but upregulates IL-4, IL-10, and IL-13 by Th2 cells. This results in a shift toward a Th2 immune response rather than general immunosuppression. The activation of the stress system (and resulting increase in cortisol and Th2 shift) seen during an infection is believed to be a protective mechanism which prevents an over-activation of the inflammatory response.
+
+Cortisol can weaken the activity of the immune system. It prevents proliferation of T-cells by rendering the interleukin-2 producer T-cells unresponsive to interleukin-1 (IL-1), and unable to produce the T-cell growth factor (IL-2). Cortisol also has a negative-feedback effect on interleukin-1.
+
+Though IL-1 is useful in combating some diseases, endotoxic bacteria have gained an advantage by forcing the hypothalamus to increase cortisol levels (forcing the secretion of corticotropin-releasing hormone, thus antagonizing IL-1). The suppressor cells are not affected by glucosteroid response-modifying factor, so the effective setpoint for the immune cells may be even higher than the setpoint for physiological processes (reflecting leukocyte redistribution to lymph nodes, bone marrow, and skin). Rapid administration of corticosterone (the endogenous type I and type II receptor agonist) or RU28362 (a specific type II receptor agonist) to adrenalectomized animals induced changes in leukocyte distribution. Natural killer cells are affected by cortisol.
+
+Cortisol stimulates many copper enzymes (often to 50% of their total potential), probably to increase copper availability for immune purposes. This includes lysyl oxidase, an enzyme that cross-links collagen, and elastin. Especially valuable for immune response is cortisol's stimulation of the superoxide dismutase, since this copper enzyme is almost certainly used by the body to permit superoxides to poison bacteria.
+
+Other effects
+Metabolism
+Glucose
+Cortisol counteracts insulin, contributes to hyperglycemia-causing hepatic gluconeogenesis and inhibits the peripheral use of glucose (insulin resistance) by decreasing the translocation of glucose transporters (especially GLUT4) to the cell membrane. Cortisol also increases glycogen synthesis (glycogenesis) in the liver, storing glucose in easily accessible form. The permissive effect of cortisol on insulin action in liver glycogenesis is observed in hepatocyte culture in the laboratory, although the mechanism for this is unknown.
+
+Bone and collagen
+Cortisol reduces bone formation, favoring long-term development of osteoporosis (progressive bone disease). It transports potassium out of cells in exchange for an equal number of sodium ions (see above). This can trigger the hyperkalemia of metabolic shock from surgery. Cortisol also reduces calcium absorption in the intestine.
+
+Collagen is an important component of connective tissue. It is vital for structural support and is found in muscles, tendons, and joints, as well as throughout the entire body. Cortisol down-regulates the synthesis of collagen.
+
+Amino acid
+Cortisol raises the free amino acids in the serum by inhibiting collagen formation, decreasing amino acid uptake by muscle, and inhibiting protein synthesis. Cortisol (as opticortinol) may inversely inhibit IgA precursor cells in the intestines of calves. Cortisol also inhibits IgA in serum, as it does IgM; however, it is not shown to inhibit IgE.
+
+Wound healing
+Cortisol and the stress response have known deleterious effects on the immune system. High levels of perceived stress and increases in cortisol have been found to lengthen wound-healing time in healthy, male adults. Those who had the lowest levels of cortisol the day following a 4 mm punch biopsy had the fastest healing time. In dental students, wounds from punch biopsies took an average of 40% longer to heal when performed three days before an examination as opposed to biopsies performed on the same students during summer vacation. This is in line with previous animal studies that show similar detrimental effects on wound healing, notably the primary reports showing that turtles recoil from cortisol.
+
+Electrolyte balance
+Cortisol acts as a diuretic, increasing water diuresis, glomerular filtration rate, and renal plasma flow from the kidneys, as well as increasing sodium retention and potassium excretion. It also increases sodium and water absorption and potassium excretion in the intestines.
+
+Sodium
+Cortisol promotes sodium absorption through the small intestine of mammals. Sodium depletion, however, does not affect cortisol levels so cortisol cannot be used to regulate serum sodium. Cortisol's original purpose may have been sodium transport. This hypothesis is supported by the fact that freshwater fish use cortisol to stimulate sodium inward, while saltwater fish have a cortisol-based system for expelling excess sodium.
+
+Potassium
+A sodium load augments the intense potassium excretion by cortisol. Corticosterone is comparable to cortisol in this case. For potassium to move out of the cell, cortisol moves an equal number of sodium ions into the cell. This should make pH regulation much easier (unlike the normal potassium-deficiency situation, in which two sodium ions move in for each three potassium ions that move out—closer to the deoxycorticosterone effect).
+
+Stomach and kidneys
+Cortisol stimulates gastric-acid secretion. Cortisol's only direct effect on the hydrogen-ion excretion of the kidneys is to stimulate the excretion of ammonium ions by deactivating the renal glutaminase enzyme.
+
+Memory
+Cortisol works with adrenaline (epinephrine) to create memories of short-term emotional events; this is the proposed mechanism for storage of flash bulb memories, and may originate as a means to remember what to avoid in the future. However, long-term exposure to cortisol damages cells in the hippocampus; this damage results in impaired learning. Furthermore, cortisol inhibits memory retrieval of already stored information.
+
+Sleep, stress, and mood
+Diurnal cycles of cortisol levels are found in humans. In humans, the amount of cortisol present in the blood undergoes diurnal variation; the level peaks in the early morning (around 8 am) and reaches its lowest level at about midnight-4 am, or three to five hours after the onset of sleep. Information about the light/dark cycle is transmitted from the retina to the paired suprachiasmatic nuclei in the hypothalamus. This pattern is not present at birth; estimates of when it begins vary from two weeks to nine months of age.
+
+Sustained stress can lead to high levels of circulating cortisol, which can create an allostatic load. An allostatic load can lead to various physical modifications in the body's regulatory networks. Changed patterns of serum cortisol levels have been observed in connection with abnormal ACTH levels, mood disorders such as major depressive disorder, anxiety disorders, psychological stress, and physiological stressors such as hypoglycemia, illness, fever, trauma, surgery, fear, pain, physical exertion, or temperature extremes. Cortisol levels may also differ for individuals with autism or Asperger's syndrome. Also, significant individual variation is seen, although a given person tends to have consistent rhythms.
+
+Effects during pregnancy
+During human pregnancy, increased fetal production of cortisol between weeks 30 and 32 initiates production of fetal lung surfactant to promote maturation of the lungs. In fetal lambs, glucocorticoids (principally cortisol) increase after about day 130, with lung surfactant increasing greatly, in response, by about day 135, and although lamb fetal cortisol is mostly of maternal origin during the first 122 days, 88% or more is of fetal origin by day 136 of gestation. Although the timing of fetal cortisol concentration elevation in sheep may vary somewhat, it averages about 11.8 days before the onset of labor. In several livestock species (e.g. cattle, sheep, goats, and pigs), the surge of fetal cortisol late in gestation triggers the onset of parturition by removing the progesterone block of cervical dilation and myometrial contraction. The mechanisms yielding this effect on progesterone differ among species. In the sheep, where progesterone sufficient for maintaining pregnancy is produced by the placenta after about day 70 of gestation, the prepartum fetal cortisol surge induces placental enzymatic conversion of progesterone to estrogen. (The elevated level of estrogen stimulates prostaglandin secretion and oxytocin receptor development.)
+
+Exposure of fetuses to cortisol during gestation can have a variety of developmental outcomes, including alterations in prenatal and postnatal growth patterns. In marmosets, a species of New World primates, pregnant females have varying levels of cortisol during gestation, both within and between females. Infants born to mothers with high gestational cortisol during the first trimester of pregnancy had lower rates of growth in body mass indices than infants born to mothers with low gestational cortisol (about 20% lower). However, postnatal growth rates in these high-cortisol infants was more rapid than low-cortisol infants later in postnatal periods, and complete catch-up in growth had occurred by 540 days of age. These results suggest that gestational exposure to cortisol in fetuses has important potential fetal programming effects on both pre- and postnatal growth in primates.
+
+Synthesis and release
+Cortisol is produced in the human body by the adrenal gland in the zona fasciculata, the second of three layers comprising the adrenal cortex. The cortex forms the outer "bark" of each adrenal gland, situated atop the kidneys. The release of cortisol is controlled by the hypothalamus, a part of the brain. The secretion of corticotropin-releasing hormone by the hypothalamus triggers cells in the neighboring anterior pituitary to secrete another hormone, the adrenocorticotropic hormone (ACTH), into the vascular system, through which blood carries it to the adrenal cortex. ACTH stimulates the synthesis of cortisol and other glucocorticoids, mineralocorticoids, and dehydroepiandrosterone.
+
+Normal levels
+Normal values indicated in the following tables pertain to humans (normal levels vary among species). Measured cortisol levels, and therefore reference ranges, depend on the analytical method used and factors such as age and sex. Test results should, therefore, always be interpreted using the reference range from the laboratory that produced the result.
+
+Reference ranges for blood plasma content of free cortisol
+Time	Lower limit	Upper limit	Unit
+09:00 am	140	700	nmol/L
+5	25	µg/dL
+Midnight	80	350	nmol/l
+2.9	13	µg/dl
+Using the molecular weight of 362.460 g/mole, the conversion factor from µg/dl to nmol/l is approximately 27.6; thus, 10 µg/dl is about 276 nmol/l.
+
+Reference ranges for urinalysis of free cortisol
+Lower limit	Upper limit	Unit
+28 or 30	280 or 490	nmol/24h
+10 or 11	100 or 176	µg/24 h
+Disorders of cortisol production
+Cushing's syndrome or hypercortisolism: Excessive levels of cortisol in the blood
+Hypocortisolism: Insufficient levels of cortisol in the blood
+Disorders of cortisol production, and some consequent conditions, are:
+
+Primary hypercortisolism (Cushing's syndrome)
+Primary hypocortisolism (Addison's disease, Nelson's syndrome)
+Secondary hypercortisolism (pituitary tumor resulting in Cushing's disease, pseudo-Cushing's syndrome)
+Secondary hypocortisolism (pituitary tumor, Sheehan's syndrome)
+Regulation
+The primary control of cortisol is the pituitary gland peptide, ACTH, which probably controls cortisol by controlling the movement of calcium into the cortisol-secreting target cells. ACTH is in turn controlled by the hypothalamic peptide corticotropin-releasing hormone (CRH), which is under nervous control. CRH acts synergistically with arginine vasopressin, angiotensin II, and epinephrine. (In swine, which do not produce arginine vasopressin, lysine vasopressin acts synergistically with CRH.)
+
+When activated macrophages start to secrete IL-1, which synergistically with CRH increases ACTH, T-cells also secrete glucosteroid response modifying factor (GRMF), as well as IL-1; both increase the amount of cortisol required to inhibit almost all the immune cells. Immune cells then assume their own regulation, but at a higher cortisol setpoint. The increase in cortisol in diarrheic calves is minimal over healthy calves, however, and falls over time. The cells do not lose all their fight-or-flight override because of interleukin-1's synergism with CRH. Cortisol even has a negative feedback effect on interleukin-1—especially useful to treat diseases that force the hypothalamus to secrete too much CRH, such as those caused by endotoxic bacteria. The suppressor immune cells are not affected by GRMF, so the immune cells' effective setpoint may be even higher than the setpoint for physiological processes. GRMF affects primarily the liver (rather than the kidneys) for some physiological processes.
+
+High-potassium media (which stimulates aldosterone secretion in vitro) also stimulate cortisol secretion from the fasciculata zone of canine adrenals — unlike corticosterone, upon which potassium has no effect.
+
+Potassium loading also increases ACTH and cortisol in humans. This is probably the reason why potassium deficiency causes cortisol to decline (as mentioned) and causes a decrease in conversion of 11-deoxycortisol to cortisol. This may also have a role in rheumatoid-arthritis pain; cell potassium is always low in RA.
+
+Ascorbic acid presence, particularly in high doses has also been shown to mediate response to psychological stress and speed the decrease of the levels of circulating cortisol in the body post stress. This can be evidenced through a decrease in systolic and diastolic blood pressures and decreased salivary cortisol level after treatment with ascorbic acid.
+
+Factors reducing cortisol levels
+Magnesium supplementation decreases serum cortisol levels after aerobic exercise, but not after resistance training.
+Omega-3 fatty acids have a dose-dependent effect in slightly reducing cortisol release influenced by mental stress, suppressing the synthesis of interleukin-1 and -6 and enhancing the synthesis of interleukin-2; the former promotes higher CRH release. Omega-6 fatty acids, though, have an inverse effect on interleukin synthesis.
+Music therapy can reduce cortisol levels in certain situations.
+Massage therapy can reduce cortisol.
+Laughing, and the experience of humor, can lower cortisol levels.
+Soy-derived phosphatidylserine interacts with cortisol; the correct dose, however, is unclear.
+Regular dancing has been shown to lead to significant decreases in salivary cortisol concentrations.
+Withania somnifera (ashwagandha) root extract
+High-dosage treatment with ascorbic acid (vitamin C) has been shown to decrease circulating cortisol levels during and shortly after the treatment period.
+Factors increasing cortisol levels
+Viral infections increase cortisol levels through activation of the HPA axis by cytokines.
+Caffeine may increase cortisol levels.
+Sleep deprivation
+Intense (high VO2 max) or prolonged aerobic exercise transiently increases cortisol levels to increase gluconeogenesis and maintain blood glucose; however, cortisol declines to normal levels after eating (i.e., restoring a neutral energy balance)
+The Val/Val variation of the BDNF gene in men and the Val/Met variation in women are associated with increased salivary cortisol in a stressful situation.
+Severe trauma or stressful events can elevate cortisol levels in the blood for prolonged periods.
+Subcutaneous adipose tissue regenerates cortisol from cortisone by the enzyme 11-beta HSD1.
+Anorexia nervosa may be associated with increased cortisol levels.
+The serotonin receptor gene 5HTR2C is associated with increased cortisol production in men.
+Smelling androstadienone has been found in one study to raise cortisol levels in women, as well as, in other studies, to affect mood (see androstadienone article for details and citations).
+Excessive or problematic drinking has been linked to increased cortisol levels, especially in college students.
+Biochemistry
+Biosynthesis
+
+Steroidogenesis, showing cortisol at right.
+Cortisol is synthesized from cholesterol. Synthesis takes place in the zona fasciculata of the adrenal cortex. (The name cortisol is derived from cortex.) While the adrenal cortex also produces aldosterone (in the zona glomerulosa) and some sex hormones (in the zona reticularis), cortisol is its main secretion in humans and several other species. (However, in cattle, corticosterone levels may approach or exceed cortisol levels.). The medulla of the adrenal gland lies under the cortex, mainly secreting the catecholamines adrenaline (epinephrine) and noradrenaline (norepinephrine) under sympathetic stimulation.
+
+The synthesis of cortisol in the adrenal gland is stimulated by the anterior lobe of the pituitary gland with ACTH; ACTH production is, in turn, stimulated by CRH, which is released by the hypothalamus. ACTH increases the concentration of cholesterol in the inner mitochondrial membrane, via regulation of the steroidogenic acute regulatory protein. It also stimulates the main rate-limiting step in cortisol synthesis, in which cholesterol is converted to pregnenolone and catalyzed by cytochrome P450SCC (side-chain cleavage enzyme).
+
+Metabolism
+Cortisol is metabolized by the 11-beta hydroxysteroid dehydrogenase system (11-beta HSD), which consists of two enzymes: 11-beta HSD1 and 11-beta HSD2.
+
+11-beta HSD1 uses the cofactor NADPH to convert biologically inert cortisone to biologically active cortisol
+11-beta HSD2 uses the cofactor NAD+ to convert cortisol to cortisone
+Overall, the net effect is that 11-beta HSD1 serves to increase the local concentrations of biologically active cortisol in a given tissue; 11-beta HSD2 serves to decrease local concentrations of biologically active cortisol.
+
+Cortisol is also metabolized into 5-alpha tetrahydrocortisol (5-alpha THF) and 5-beta tetrahydrocortisol (5-beta THF), reactions for which 5-alpha reductase and 5-beta reductase are the rate-limiting factors, respectively. 5-Beta reductase is also the rate-limiting factor in the conversion of cortisone to tetrahydrocortisone.
+
+An alteration in 11-beta HSD1 has been suggested to play a role in the pathogenesis of obesity, hypertension, and insulin resistance known as metabolic syndrome.
+
+An alteration in 11-beta HSD2 has been implicated in essential hypertension and is known to lead to the syndrome of apparent mineralocorticoid excess (SAME).
+
+Chemistry
+Cortisol is a naturally occurring pregnane corticosteroid and is also known as 11ß,17a,21-trihydroxypregn-4-ene-3,20-dione.
+
+Animals
+In animals, cortisol is often used as an indicator of stress and can be measured in blood, saliva, urine, hair, and faeces.
+
+See also
+Cortisone, a hormone
+Membrane glucocorticoid receptor
+List of corticosteroids
+References
+ Scott E (2011-09-22). "Cortisol and Stress: How to Stay Healthy". About.com. Retrieved 2011-11-29.[better source needed]
+ Hoehn K, Marieb EN (2010). Human Anatomy & Physiology. San Francisco: Benjamin Cummings. ISBN 978-0-321-60261-9.
+ Chyun YS, Kream BE, Raisz LG (February 1984). "Cortisol decreases bone formation by inhibiting periosteal cell proliferation". Endocrinology. 114 (2): 477–80. doi:10.1210/endo-114-2-477. PMID 6690287.
+ Martin PA, Crump MH (2003). "The adrenal gland". In Dooley MP, Pineda MH. McDonald's veterinary endocrinology and reproduction (5th ed.). Ames, Iowa: Iowa State Press. ISBN 978-0-8138-1106-2.
+ Coderre L, Srivastava AK, Chiasson JL (June 1991). "Role of glucocorticoid in the regulation of glycogen metabolism in skeletal muscle". The American Journal of Physiology. 260 (6 Pt 1): E927–32. doi:10.1152/ajpendo.1991.260.6.E927. PMID 1905485.
+ Simmons PS, Miles JM, Gerich JE, Haymond MW (February 1984). "Increased proteolysis. An effect of increases in plasma cortisol within the physiologic range". The Journal of Clinical Investigation. 73 (2): 412–20. doi:10.1172/JCI111227. PMC 425032. PMID 6365973.
+ Djurhuus CB, Gravholt CH, Nielsen S, Mengel A, Christiansen JS, Schmitz OE, Møller N (July 2002). "Effects of cortisol on lipolysis and regional interstitial glycerol levels in humans". American Journal of Physiology. Endocrinology and Metabolism. 283 (1): E172–7. doi:10.1152/ajpendo.00544.2001. PMID 12067858.
+ Elenkov IJ (June 2004). "Glucocorticoids and the Th1/Th2 balance". Annals of the New York Academy of Sciences. 1024 (1): 138–46. Bibcode:2004NYASA1024..138E. doi:10.1196/annals.1321.010. PMID 15265778.
+ Palacios R, Sugawara I (January 1982). "Hydrocortisone abrogates proliferation of T cells in autologous mixed lymphocyte reaction by rendering the interleukin-2 Producer T cells unresponsive to interleukin-1 and unable to synthesize the T-cell growth factor". Scandinavian Journal of Immunology. 15 (1): 25–31. doi:10.1111/j.1365-3083.1982.tb00618.x. PMID 6461917.
+ Besedovsky HO, Del Rey A, Sorkin E (1986). "Integration of Activated Immune Cell Products in Immune Endocrine Feedback Circuits". In Oppenheim JJ, Jacobs DM. Leukocytes and Host Defense. Progress in Leukocyte Biology. 5. New York: Alan R. Liss. p. 200.
+ Fairchild SS, Shannon K, Kwan E, Mishell RI (February 1984). "T cell-derived glucosteroid response-modifying factor (GRMFT): a unique lymphokine made by normal T lymphocytes and a T cell hybridoma". Journal of Immunology. 132 (2): 821–7. PMID 6228602.
+ Mavoungou E, Bouyou-Akotet MK, Kremsner PG (February 2005). "Effects of prolactin and cortisol on natural killer (NK) cell surface expression and function of human natural cytotoxicity receptors (NKp46, NKp44 and NKp30)". Clinical and Experimental Immunology. 139 (2): 287–96. doi:10.1111/j.1365-2249.2004.02686.x. PMC 1809301. PMID 15654827.
+ Weber CE (December 1984). "Copper response to rheumatoid arthritis". Medical Hypotheses. 15 (4): 333–48. doi:10.1016/0306-9877(84)90150-6. PMID 6152006.
+ Flohe L, Beckman R, Giertz H, Loschen G (1985). "Oxygen Centered Free Radicals as Mediators of Inflammation". In Sies H. Oxidative stress. London: Orlando. p. 405. ISBN 978-0-12-642760-8.
+ Brown DF, Brown DD (2003). USMLE Step 1 Secrets: Questions You Will Be Asked on USMLE Step 1. Philadelphia: Hanley & Belfus. p. 63. ISBN 978-1-56053-570-6.[better source needed]
+ King MB (2005). Lange Q & A. New York: McGraw-Hill, Medical Pub. Division. ISBN 978-0-07-144578-8.
+ Baynes J, Dominiczak M (2009). Medical biochemistry. Mosby Elsevier. ISBN 978-0-323-05371-6.
+ Knight RP, Kornfeld DS, Glaser GH, Bondy PK (February 1955). "Effects of intravenous hydrocortisone on electrolytes of serum and urine in man". The Journal of Clinical Endocrinology and Metabolism. 15 (2): 176–81. doi:10.1210/jcem-15-2-176. PMID 13233328.
+ Deutsch E (April 1978). "[Pathogenesis of thrombocytopenia. 2. Distribution disorders, pseudo-thrombocytopenias]". Fortschritte der Medizin (in German). 96 (14): 761–2. PMID 346457.
+ Kucharz EJ (1988). "Hormonal control of collagen metabolism. Part II". Endocrinologie. 26 (4): 229–37. PMID 3062759.
+ Manchester, KL (1964). "Sites of Hormonal Regulation of Protein Metabolism". In Allison, NH & Munro JB. Mammalian Protein Metabolism. New York: Academic Press. p. 229? 273?.
+ Husband AJ, Brandon MR, Lascelles AK (October 1973). "The effect of corticosteroid on absorption and endogenous production of immunoglobulins in calves". The Australian Journal of Experimental Biology and Medical Science. 51 (5): 707–10. doi:10.1038/icb.1973.67. PMID 4207041.
+ Posey WC, Nelson HS, Branch B, Pearlman DS (December 1978). "The effects of acute corticosteroid therapy for asthma on serum immunoglobulin levels". The Journal of Allergy and Clinical Immunology. 62 (6): 340–8. doi:10.1016/0091-6749(78)90134-3. PMID 712020.
+ Ebrecht M, Hextall J, Kirtley LG, Taylor A, Dyson M, Weinman J (July 2004). "Perceived stress and cortisol levels predict speed of wound healing in healthy male adults". Psychoneuroendocrinology. 29 (6): 798–809. doi:10.1016/s0306-4530(03)00144-6. PMID 15110929.
+ Marucha PT, Kiecolt-Glaser JK, Favagehi M (1998). "Mucosal wound healing is impaired by examination stress". Psychosomatic Medicine. 60 (3): 362–5. doi:10.1097/00006842-199805000-00025. PMID 9625226.
+ Zhou X, Xie M, Niu C, Sun R (June 2003). "The effects of dietary vitamin C on growth, liver vitamin C and serum cortisol in stressed and unstressed juvenile soft-shelled turtles (Pelodiscus sinensis)". Comparative Biochemistry and Physiology. Part A, Molecular & Integrative Physiology. 135 (2): 263–70. doi:10.1016/s1095-6433(03)00066-7. PMID 12781826.
+ McKay LI, Cidlowski JA (2003). "Physiologic and Pharmacologic Effects of Corticosteroids". In Kure DW, Pollock RE, Weichselbaum RR, Bast RC, Ganglier TS, Holland JF, Frei E. Holland-Frei Cancer Medicine (6 ed.). Hamilton, Ontario: Decker. ISBN 978-1-55009-213-4.
+ Sandle GI, Keir MJ, Record CO (1981). "The effect of hydrocortisone on the transport of water, sodium, and glucose in the jejunum. Perfusion studies in normal subjects and patients with coeliac disease". Scandinavian Journal of Gastroenterology. 16 (5): 667–71. doi:10.3109/00365528109182028. PMID 7323700.
+ Mason PA, Fraser R, Morton JJ, Semple PF, Wilson A (August 1977). "The effect of sodium deprivation and of angiotensin II infusion on the peripheral plasma concentrations of 18-hydroxycorticosterone, aldosterone and other corticosteroids in man". Journal of Steroid Biochemistry. 8 (8): 799–804. doi:10.1016/0022-4731(77)90086-3. PMID 592808.
+ Gorbman A, Dickhoff WW, Vigna SR, Clark NB, Muller AF (1983). Comparative endocrinology. New York: Wiley. ISBN 978-0-471-06266-0.
+ Muller AF, Oconnor CM (1958). An International Symposium on Aldosterone. Little Brown & Co. p. 58.
+ Soffer LJ, Dorfman RI, Gabrilove JL (1961). The Human Adrenal Gland. Philadelphia: Lea & Febiger.
+ Kokoshchuk GI, Pakhmurnyi BA (May 1979). "Role of glucocorticoids in regulating the acid-excreting function of the kidneys]". Fiziologicheskii Zhurnal SSSR Imeni I. M. Sechenova. 65 (5): 751–4. PMID 110627.
+ Kennedy, Ron. "Cortisol (Hydrocortisone)". The Doctors' Medical Library. Retrieved 14 June 2013.
+ McAuley MT, Kenny RA, Kirkwood TB, Wilkinson DJ, Jones JJ, Miller VM (March 2009). "A mathematical model of aging-related and cortisol induced hippocampal dysfunction". BMC Neuroscience. 10: 26. doi:10.1186/1471-2202-10-26. PMC 2680862. PMID 19320982.
+ de Quervain DJ, Roozendaal B, McGaugh JL (August 1998). "Stress and glucocorticoids impair retrieval of long-term spatial memory". Nature. 394 (6695): 787–90. Bibcode:1998Natur.394..787D. doi:10.1038/29542. PMID 9723618.
+ de Quervain DJ, Roozendaal B, Nitsch RM, McGaugh JL, Hock C (April 2000). "Acute cortisone administration impairs retrieval of long-term declarative memory in humans". Nature Neuroscience. 3 (4): 313–4. doi:10.1038/73873. PMID 10725918.
+ de Weerth C, Zijl RH, Buitelaar JK (August 2003). "Development of cortisol circadian rhythm in infancy". Early Human Development. 73 (1–2): 39–52. doi:10.1016/S0378-3782(03)00074-4. PMID 12932892.
+ Braveman P, Gottlieb L (2014). "The social determinants of health: it's time to consider the causes of the causes". Public Health Reports. 129 Suppl 2 (Suppl 2): 19–31. doi:10.1177/00333549141291S206. PMC 3863696. PMID 24385661.
+ "Asperger's stress hormone 'link'". BBC News Online. 2009-04-02. Retrieved 2010-04-30.
+ Mescher EJ, Platzker AC, Ballard PL, Kitterman JA, Clements JA, Tooley WH (December 1975). "Ontogeny of tracheal fluid, pulmonary surfactant, and plasma corticoids in the fetal lamb". Journal of Applied Physiology. 39 (6): 1017–21. doi:10.1152/jappl.1975.39.6.1017. PMID 2573.
+ Hennessy DP, Coghlan JP, Hardy KJ, Scoggins BA, Wintour EM (October 1982). "The origin of cortisol in the blood of fetal sheep". The Journal of Endocrinology. 95 (1): 71–9. doi:10.1677/joe.0.0950071. PMID 7130892.
+ Magyar DM, Fridshal D, Elsner CW, Glatz T, Eliot J, Klein AH, Lowe KC, Buster JE, Nathanielsz PW (July 1980). "Time-trend analysis of plasma cortisol concentrations in the fetal sheep in relation to parturition". Endocrinology. 107 (1): 155–9. doi:10.1210/endo-107-1-155. PMID 7379742.
+ Ricketts AP, Flint AP (August 1980). "Onset of synthesis of progesterone by ovine placenta". The Journal of Endocrinology. 86 (2): 337–47. doi:10.1677/joe.0.0860337. PMID 6933207.
+ Al-Gubory KH, Solari A, Mirman B (1999). "Effects of luteectomy on the maintenance of pregnancy, circulating progesterone concentrations and lambing performance in sheep". Reproduction, Fertility, and Development. 11 (6): 317–22. doi:10.1071/RD99079. PMID 10972299.
+ Mustoe AC, Birnie AK, Korgan AC, Santo JB, French JA (February 2012). "Natural variation in gestational cortisol is associated with patterns of growth in marmoset monkeys (Callithrix geoffroyi)". General and Comparative Endocrinology. 175 (3): 519–26. doi:10.1016/j.ygcen.2011.12.020. PMC 3268124. PMID 22212825.
+ "You & Your Hormones : Cortisol". the Society for Endocrinology (Last updated) :. 24 October 2013. Archived from the original on 24 November 2014. Retrieved 24 November 2014.
+ Biochemistry Reference Ranges at Good Hope Hospital Retrieved 8 November 2009[better source needed]
+ Derived from molar values using molar mass of 362 g/mol
+ Converted from µg/24h, using molar mass of 362.460 g/mol
+ Görges R, Knappe G, Gerl H, Ventz M, Stahl F (April 1999). "Diagnosis of Cushing's syndrome: re-evaluation of midnight plasma cortisol vs urinary free cortisol and low-dose dexamethasone suppression test in a large patient group". Journal of Endocrinological Investigation. 22 (4): 241–9. doi:10.1007/bf03343551. PMID 10342356.
+ MedlinePlus Encyclopedia Cortisol – urine
+ Converted from nmol/24h, using molar mass of 362.460 g/mol
+ "Cushing's Syndrome". National Endocrine and Metabolic Diseases Information Service (NEMDIS). July 2008. Retrieved 16 March 2015. These benign, or noncancerous, tumors of the pituitary gland secrete extra ACTH. Most people with the disorder have a single adenoma. This form of the syndrome, known as Cushing's disease
+ Forbis P (2005). Stedman's medical eponyms (2nd ed.). Baltimore, Md.: Lippincott Williams & Wilkins. p. 167. ISBN 978-0-7817-5443-9.
+ Davies E, Kenyon CJ, Fraser R (June 1985). "The role of calcium ions in the mechanism of ACTH stimulation of cortisol synthesis". Steroids. 45 (6): 551–60. doi:10.1016/0039-128X(85)90019-4. PMID 3012830.
+ Plotsky PM, Otto S, Sapolsky RM (September 1986). "Inhibition of immunoreactive corticotropin-releasing factor secretion into the hypophysial-portal circulation by delayed glucocorticoid feedback". Endocrinology. 119 (3): 1126–30. doi:10.1210/endo-119-3-1126. PMID 3015567.
+ Minton JE, Parsons KM (March 1993). "Adrenocorticotropic hormone and cortisol response to corticotropin-releasing factor and lysine vasopressin in pigs". Journal of Animal Science. 71 (3): 724–9. PMID 8385088.
+ Dvorak M (1971). "Plasma 17-Hydroxycorticosteroid Levels in Healthy and Diarrheic Calves". British Veterinarian Journal. 127: 372.
+ Stith RD, McCallum RE (1986). "General effect of endotoxin on glucocorticoid receptors in mammalian tissues". Circulatory Shock. 18 (4): 301–9. PMID 3084123.
+ Mikosha AS, Pushkarov IS, Chelnakova IS, Remennikov GY (1991). "Potassium Aided Regulation of Hormone Biosynthesis in Adrenals of Guinea Pigs Under Action of Dihydropyridines: Possible Mechanisms of Changes in Steroidogenesis Induced by 1,4, Dihydropyridines in Dispersed Adrenocorticytes". Fiziol. [Kiev]. 37: 60.
+ "Ameer Saadallah Al – Zacko" (PDF). Retrieved 11 July 2013.
+ Mendelsohn FA, Mackie C (July 1975). "Relation of intracellular K+ and steroidogenesis in isolated adrenal zona glomerulosa and fasciculata cells". Clinical Science and Molecular Medicine. 49 (1): 13–26. doi:10.1042/cs0490013. PMID 168026.
+ Ueda Y, Honda M, Tsuchiya M, Watanabe H, Izumi Y, Shiratsuchi T, Inoue T, Hatano M (April 1982). "Response of plasma ACTH and adrenocortical hormones to potassium loading in essential hypertension". Japanese Circulation Journal. 46 (4): 317–22. doi:10.1253/jcj.46.317. PMID 6283190.
+ Bauman K, Muller J (1972). "Effect of potassium on the final status of aldosterone biosynthesis in the rat. I 18-hydroxylation and 18hydroxy dehydrogenation. II beta-hydroxylation". Acta Endocrin. Copenh. 69: I 701–717, II 718–730.
+ LaCelle PL, Morgan ES, Atwater EC (1964). "An investigation of total body potassium in patients with rheumatoid arthritis". Proceedings of the Annual Meeting of the American Rheumatism Association, Arthritis and Rheumatism. 7 (3): 321.
+ Brody S, Preut R, Schommer K, Schürmeyer TH (January 2002). "A randomized controlled trial of high dose ascorbic acid for reduction of blood pressure, cortisol, and subjective responses to psychological stress". Psychopharmacology. 159 (3): 319–24. doi:10.1007/s00213-001-0929-6. PMID 11862365.
+ Golf SW, Happel O, Graef V, Seim KE (November 1984). "Plasma aldosterone, cortisol and electrolyte concentrations in physical exercise after magnesium supplementation". Journal of Clinical Chemistry and Clinical Biochemistry. Zeitschrift für Klinische Chemie und Klinische Biochemie. 22 (11): 717–21. CiteSeerX 10.1.1.634.3309. doi:10.1515/cclm.1984.22.11.717. PMID 6527092.
+ Golf SW, Bender S, Grüttner J (September 1998). "On the significance of magnesium in extreme physical stress". Cardiovascular Drugs and Therapy. 12 Suppl 2 (2suppl): 197–202. doi:10.1023/A:1007708918683. PMID 9794094.
+ Wilborn CD, Kerksick CM, Campbell BI, Taylor LW, Marcello BM, Rasmussen CJ, Greenwood MC, Almada A, Kreider RB (December 2004). "Effects of Zinc Magnesium Aspartate (ZMA) Supplementation on Training Adaptations and Markers of Anabolism and Catabolism". Journal of the International Society of Sports Nutrition. 1 (2): 12–20. doi:10.1186/1550-2783-1-2-12. PMC 2129161. PMID 18500945.
+ Bhathena SJ, Berlin E, Judd JT, Kim YC, Law JS, Bhagavan HN, Ballard-Barbash R, Nair PP (October 1991). "Effects of omega 3 fatty acids and vitamin E on hormones involved in carbohydrate and lipid metabolism in men". The American Journal of Clinical Nutrition. 54 (4): 684–8. doi:10.1093/ajcn/54.4.684. PMID 1832814.
+ Delarue J, Matzinger O, Binnert C, Schneiter P, Chioléro R, Tappy L (June 2003). "Fish oil prevents the adrenal activation elicited by mental stress in healthy men". Diabetes & Metabolism. 29 (3): 289–95. doi:10.1016/S1262-3636(07)70039-3. PMID 12909818.
+ Yehuda S (2003). "Omega-6/omega-3 ratio brain related functions". In Simopoulos AP, Cleland LG. Omega-6, omega-3 essential fatty acid ratio: the scientific evidence. Basel: Karger. p. 50. ISBN 978-3-8055-7640-6.
+ Uedo N, Ishikawa H, Morimoto K, Ishihara R, Narahara H, Akedo I, Ioka T, Kaji I, Fukuda S (2004). "Reduction in salivary cortisol level by music therapy during colonoscopic examination". Hepato-Gastroenterology. 51 (56): 451–3. PMID 15086180.
+ Field T, Hernandez-Reif M, Diego M, Schanberg S, Kuhn C (October 2005). "Cortisol decreases and serotonin and dopamine increase following massage therapy". The International Journal of Neuroscience. 115 (10): 1397–413. CiteSeerX 10.1.1.526.4790. doi:10.1080/00207450590956459. PMID 16162447.
+ Berk LS, Tan SA, Berk D (2008). "Cortisol and Catecholamine stress hormone decrease is associated with the behavior of perceptual anticipation of mirthful laughter". The FASEB Journal. 22 (1): 946.11.
+ Hellhammer J, Fries E, Buss C, Engert V, Tuch A, Rutenberg D, Hellhammer D (June 2004). "Effects of soy lecithin phosphatidic acid and phosphatidylserine complex (PAS) on the endocrine and psychological responses to mental stress". Stress. 7 (2): 119–26. doi:10.1080/10253890410001728379. PMID 15512856.
+ Starks MA, Starks SL, Kingsley M, Purpura M, Jäger R (July 2008). "The effects of phosphatidylserine on endocrine response to moderate intensity exercise". Journal of the International Society of Sports Nutrition. 5: 11. doi:10.1186/1550-2783-5-11. PMC 2503954. PMID 18662395.
+ Steptoe A, Gibson EL, Vuononvirta R, Williams ED, Hamer M, Rycroft JA, Erusalimsky JD, Wardle J (January 2007). "The effects of tea on psychophysiological stress responsivity and post-stress recovery: a randomised double-blind trial". Psychopharmacology. 190 (1): 81–9. doi:10.1007/s00213-006-0573-2. PMID 17013636.
+ "medicalnewstoday". Retrieved 25 September 2013.
+ Quiroga MC, Bongard S, Kreutz G (July 2009). "Emotional and Neurohumoral Responses to Dancing Tango Argentino: The Effects of Music and Partner". Music and Medicine. 1 (1): 14–21. doi:10.1177/1943862109335064.
+ Chandrasekhar K, Kapoor J, Anishetty S (July 2012). "A prospective, randomized double-blind, placebo-controlled study of safety and efficacy of a high-concentration full-spectrum extract of ashwagandha root in reducing stress and anxiety in adults". Indian Journal of Psychological Medicine. 34 (3): 255–62. doi:10.4103/0253-7176.106022. PMC 3573577. PMID 23439798.
+ Silverman MN, Pearce BD, Biron CA, Miller AH (2005). "Immune modulation of the hypothalamic-pituitary-adrenal (HPA) axis during viral infection". Viral Immunology. 18 (1): 41–78. doi:10.1089/vim.2005.18.41. PMC 1224723. PMID 15802953.
+ Lovallo WR, Farag NH, Vincent AS, Thomas TL, Wilson MF (March 2006). "Cortisol responses to mental stress, exercise, and meals following caffeine intake in men and women". Pharmacology Biochemistry and Behavior. 83 (3): 441–7. doi:10.1016/j.pbb.2006.03.005. PMC 2249754. PMID 16631247.
+ Leproult R, Copinschi G, Buxton O, Van Cauter E (October 1997). "Sleep loss results in an elevation of cortisol levels the next evening". Sleep. 20 (10): 865–70. PMID 9415946.
+ Robson PJ, Blannin AK, Walsh NP, Castell LM, Gleeson M (February 1999). "Effects of exercise intensity, duration and recovery on in vitro neutrophil function in male athletes". International Journal of Sports Medicine. 20 (2): 128–35. doi:10.1055/s-2007-971106. PMID 10190775.
+ Fuqua JS, Rogol AD (July 2013). "Neuroendocrine alterations in the exercising human: implications for energy homeostasis". Metabolism. 62 (7): 911–21. doi:10.1016/j.metabol.2013.01.016. PMID 23415825. Cortisol has wide-ranging effects, including alterations of carbohydrate, protein, and lipid metabolism; catabolic effects on skin, muscle, connective tissue, and bone; immunomodulatory effects; blood pressure and circulatory system regulation; and effects on mood and central nervous system function. In the short term, activation of the HPA axis in response to stress is adaptive. However, long-term stress promoting chronic exposure of tissues to high cortisol concentrations becomes maladaptive. ... Exercise, particularly sustained aerobic activity, is a potent stimulus of cortisol secretion. The circulating concentrations of cortisol are directly proportional to the intensity of exercise as measured by oxygen uptake. As is the case for the GH/IGF-1 and HPG axes, the HPA axis also receives many other inputs, including the light/dark cycle, feeding schedules, immune regulation, and many neurotransmitters that mediate the effects of exercise and physical and psychic stress [52]. ... The HPA is activated by stress, whether physical (exercise) or psychological. Increased cortisol production, along with activation of the sympathetic nervous system, affects whole body metabolism. This is apparently part of the catabolic response of the entire organism, with the purpose of mobilizing metabolic fuels that are subsequently broken down to produce energy and to dampen the threat or perceived threat. ... Thus, a negative net energy balance leads to activation of the HPA axis and the circulating concomitants of the catabolic state in an attempt to keep core processes functional, realizing that the stress of exercise has no effect on cortisol and circulating metabolic substrates beyond the impact of the exercise energy expenditure on energy availability [60]. Thuma et al. [61] had already made the important observation that the reported differences in cortisol levels pre- and postexercise depended on whether this difference was measured from a single pretest level or from the physiologic circadian baseline as determined in an independent session in the resting state. By this analytical technique, these investigators showed that increasing energy expenditure led to significant cortisol release. This release was apparent if they subtracted the physiologic circadian baseline from the postexercise value.
+ Shalev I, Lerer E, Israel S, Uzefovsky F, Gritsenko I, Mankuta D, Ebstein RP, Kaitz M (April 2009). "BDNF Val66Met polymorphism is associated with HPA axis reactivity to psychological stress characterized by genotype and gender interactions". Psychoneuroendocrinology. 34 (3): 382–8. doi:10.1016/j.psyneuen.2008.09.017. PMID 18990498.
+ Smith JL, Gropper SA, Groff JL (2009). Advanced nutrition and humanmetabolism. Belmont, CA: Wadsworth Cengage Learning. p. 247. ISBN 978-0-495-11657-8.
+ Stimson RH, Andersson J, Andrew R, Redhead DN, Karpe F, Hayes PC, Olsson T, Walker BR (January 2009). "Cortisol release from adipose tissue by 11beta-hydroxysteroid dehydrogenase type 1 in humans". Diabetes. 58 (1): 46–53. doi:10.2337/db08-0969. PMC 2606892. PMID 18852329.
+ Haas VK, Kohn MR, Clarke SD, Allen JR, Madden S, Müller MJ, Gaskin KJ (April 2009). "Body composition changes in female adolescents with anorexia nervosa". The American Journal of Clinical Nutrition. 89 (4): 1005–10. doi:10.3945/ajcn.2008.26958. PMID 19211813.
+ Brummett BH, Kuhn CM, Boyle SH, Babyak MA, Siegler IC, Williams RB (January 2012). "Cortisol responses to emotional stress in men: association with a functional polymorphism in the 5HTR2C gene" (PDF). Biological Psychology. 89 (1): 94–8. doi:10.1016/j.biopsycho.2011.09.013. PMC 3245751. PMID 21967853.
+ Ceballos NA, Sharma S, Patterson TL, Graham R, Howard K (November 2015). "Stress, Immune Function and Collegiate Holiday Drinking: A Pilot Study". Neuropsychobiology. 72 (1): 8–15. doi:10.1159/000438757. PMID 26304312.
+ Häggström M, Richfield D (2014). "Diagram of the pathways of human steroidogenesis". WikiJournal of Medicine. 1 (1). doi:10.15347/wjm/2014.005. ISSN 2002-4436.
+ Willett LB, Erb RE (January 1972). "Short term changes in plasma corticoids in dairy cattle". Journal of Animal Science. 34 (1): 103–11. doi:10.2527/jas1972.341103x. PMID 5062063.
+ Margioris AN, Tsatsanis C (2011). "ACTH Action on the Adrenal". In Chrousos G. Adrenal physiology and diseases. Endotext.org.
+ Tomlinson JW, Walker EA, Bujalska IJ, Draper N, Lavery GG, Cooper MS, Hewison M, Stewart PM (October 2004). "11beta-hydroxysteroid dehydrogenase type 1: a tissue-specific regulator of glucocorticoid response". Endocrine Reviews. 25 (5): 831–66. doi:10.1210/er.2003-0031. PMID 15466942.
+ van Staaveren, N., Teixeira, D.L., Hanlon, A. and Boyle, L.A. (2015). "The effect of mixing entire male pigs prior to transport to slaughter on behaviour, welfare and carcass lesions". PLoS One. 10 (4): e0122841. Bibcode:2015PLoSO..1022841V. doi:10.1371/journal.pone.0122841. PMC 4382277. PMID 25830336.
+ van Staaveren N, Teixeira DL, Hanlon A, Boyle LA (1997). "The effect of mixing entire male pigs prior to transport to slaughter on behaviour, welfare and carcass lesions". PLoS One. 10 (4): e0122841. Bibcode:2015PLoSO..1022841V. doi:10.1371/journal.pone.0122841. PMC 4382277. PMID 25830336.
+ Schalke E, Stichnoth J, Ott S, Jones-Baade R (2007). "Clinical signs caused by the use of electric training collars on dogs in everyday life situations". Applied Animal Behaviour Science. 105 (4): 369–380. doi:10.1016/j.applanim.2006.11.002.
+ Accorsi PA, Carloni E, Valsecchi P, Viggiani R, Gamberoni M, Tamanini C, Seren E (January 2008). "Cortisol determination in hair and faeces from domestic cats and dogs". General and Comparative Endocrinology. 155 (2): 398–402. doi:10.1016/j.ygcen.2007.07.002. PMID 17727851.
+ Möstl E, Messmann S, Bagu E, Robia C, Palme R (December 1999). "Measurement of glucocorticoid metabolite concentrations in faeces of domestic livestock". Zentralblatt für Veterinarmedizin. Reihe A. 46 (10): 621–31. PMID 10638300.
+External links
+	Wikimedia Commons has media related to Cortisol.
+Cortisol MS Spectrum
+Cortisol: analyte monograph – The Association for Clinical Biochemistry and Laboratory Medicine
+vte
+Hormones
+vte
+Endogenous steroids
+vte
+Glucocorticoid receptor modulators
+vte
+Mineralocorticoid receptor modulators
+Authority control Edit this at Wikidata	
+GND: 4160902-5 LCCN: sh85063384
+Categories: AnxietyGlucocorticoidsOtologicalsPregnanesStress
+Navigation menupage actions
+articletalkedit this pagehistorymovewatch
+personal tools
+Gzorgalerts (3)notices (0)talksandboxpreferencesbetawatchlistcontributionslog out
+navigation
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+search
+
+Search Wikipedia
+  
+interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+print/export
+Create a book
+Download as PDF
+Printable version
+in other projects
+Wikimedia Commons
+languages
+???????
+??????
+?????
+?????????
+Català
+Ceština
+Cymraeg
+Deutsch
+????????
+Español
+Esperanto
+Euskara
+?????
+Français
+Gaeilge
+Galego
+???
+???????
+Hrvatski
+Bahasa Indonesia
+Italiano
+?????
+Basa Jawa
+Latviešu
+Lietuviu
+Magyar
+??????????
+Nederlands
+???
+Norsk
+Occitan
+Polski
+Português
+Româna
+???????
+Scots
+Simple English
+Slovencina
+Slovenšcina
+?????
+?????? / srpski
+Srpskohrvatski / ??????????????
+Suomi
+Svenska
+?????
+Türkçe
+??????????
+Ti?ng Vi?t
+??
+Edit links
+Wikimedia FoundationPowered by MediaWiki
+This page was last edited on 27 October 2018, at 04:04.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersCookie statementMobile view
